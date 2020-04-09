@@ -1,0 +1,9 @@
+{
+  "name": "tokbox-streaming",
+  "version": "1.0.0",
+  "description": "RTC test",
+  "main": "index.js",
+  "repository": "https://github.com/luizheming/rtc-tokbox-test.git",
+  "author": "Luiz Heming",
+  "license": "MIT"
+}
